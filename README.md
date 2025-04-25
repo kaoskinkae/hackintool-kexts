@@ -46,8 +46,7 @@ We can do this with any kext that we know has a corresponding Resource and is no
 
 ![Captura de pantalla 2025-04-25 a las 10 06 57](https://github.com/user-attachments/assets/ad687e11-8a47-44b3-bae4-2a7d4a1a1918)
 
-
-
+Now we just have to wait for the kext in question to include a new version of the kext so that it becomes available for download.
 
 
 
