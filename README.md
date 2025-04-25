@@ -24,6 +24,8 @@ Now we go to the Hackintool application, we position ourselves on it, right clic
 We select the last entry and select "duplicate."
 Now it's time to adapt this duplicate to the kext in the RadeonSensor example.
 
+_______________________________________________________________________________________
+
 Description: Kext and Gadget to show Radeon GPU temperature on macOS
 
 Name: SMCRadeonSensors
@@ -31,6 +33,8 @@ Name: SMCRadeonSensors
 ProjectUrl: https://github.com/aluveitie/RadeonSensor
 
 Type: kext
+
+_______________________________________________________________________________________
 
 ![Captura de pantalla 2025-04-25 a las 10 21 17](https://github.com/user-attachments/assets/e0f654a9-66a8-4a05-8be4-062fa4d17e2a)
 
