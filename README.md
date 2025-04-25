@@ -7,13 +7,13 @@
 
 There is a simple way to add kext repositories in Hackintool. For this, we need to locate the Releases of the kext or kexts that we want to add so that it can be added in "kexts.plist"
 
-##Locate the kext to add
+## Locate the kext to add
 
 We locate the www of the kext or kext in question and locate or copy the Releases before where all the available versions of the kext or kexts are located.
 
 https://github.com/aluveitie/RadeonSensor
 
-##Find where we should add the kext download information in Hackintool
+## Find where we should add the kext download information in Hackintool
 
 Now we go to the Hackintool application, we position ourselves on it, right click "show package contents" we go to "hackintool/Contents/Resources/Kexts" We locate the kexts.plist and open it PlistEdit Pro or any program that we have for that purpose
 
@@ -34,7 +34,7 @@ Type: kext
 
 ![Captura de pantalla 2025-04-25 a las 10 21 17](https://github.com/user-attachments/assets/e0f654a9-66a8-4a05-8be4-062fa4d17e2a)
 
-##Check that the kext was added correctly
+## Check that the kext was added correctly
 
 Once the new Hackintool line is saved in kexts.plist, we reopen the application and in the kext section it will appear reflected in added kext
 
