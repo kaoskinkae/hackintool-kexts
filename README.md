@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 Description: Kext and Gadget to show Radeon GPU temperature on macOS
 
-Name: SMCRadeonSensors
+Name: RadeonSensors
 
 ProjectUrl: https://github.com/aluveitie/RadeonSensor
 
