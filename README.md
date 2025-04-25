@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 ![Captura de pantalla 2025-04-25 a las 10 21 17](https://github.com/user-attachments/assets/e0f654a9-66a8-4a05-8be4-062fa4d17e2a)
 
-There are other variants of kext download indication that should be looked at within all the kext that Hackintool has added. This method is only for this kext.
+__There are other variants of kext download indication that should be looked at within all the kext that Hackintool has added. This method is only for this kext.
 
 ## Check that the kext was added correctly
 
