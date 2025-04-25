@@ -1,6 +1,8 @@
 # Adding kext repositories in Hackintool
 
 
+![AppIcon](https://github.com/user-attachments/assets/7913aaf2-6043-4b42-a2be-e70ba79716f4)
+
 
 
 There is a simple way to add kext repositories in Hackintool. For this, we need to locate the Releases of the kext or kexts that we want to add so that it can be added in "kexts.plist"
